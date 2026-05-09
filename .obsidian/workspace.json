@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "944cfc543266d0da",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7d48dbfe6974f4b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c67765bb6529dc3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "每日分析结果/2026年05月09日/选股变动.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "选股变动"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9c7a05bb916c703b",
+    "type": "split",
+    "children": [
+      {
+        "id": "71d1a09507b15030",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0befa505fa019a60",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "b6582556f77a1a24",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "0e1eb3f9b79d6b2a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2d9bd5956dfea197",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f9405cabd38e9e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f9c86f6e453c97e5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "选股启动器_用户端.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "选股启动器_用户端 的反向链接列表"
+            }
+          },
+          {
+            "id": "4a094462d6073f30",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "选股启动器_用户端.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "选股启动器_用户端 的出链列表"
+            }
+          },
+          {
+            "id": "139bb437924965b8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "61468880d14e250d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "24ef4b22acdb41be",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "选股启动器_用户端.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "选股启动器_用户端 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "audio-recorder:开始/结束录音": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "c67765bb6529dc3f",
+  "lastOpenFiles": [
+    "选股启动器_用户端.md",
+    "每日分析结果/2026年05月09日/股息率排名.md",
+    "每日分析结果/2026年05月09日/选股变动.md",
+    "每日分析结果/2026年05月09日",
+    "股票历史记录/2026年05月09日.md",
+    "每日分析结果/2026年05月08日/选股变动.md",
+    "股票池/志邦家居.md",
+    "股票池/金能科技.md",
+    "股票池/元祖股份.md",
+    "股票池/ST喜临门.md",
+    "股票池/索菲亚.md",
+    "股票池/开滦股份.md",
+    "股票池/星湖科技.md",
+    "股票池/冠城新材.md",
+    "股票池/钱江摩托.md",
+    "选股配置.md",
+    "README.md",
+    "新手教程（必看）.md",
+    "股票历史记录/2026年05月08日.md",
+    "个股分析/伊利股份.md",
+    "每日分析结果/2026年05月08日/趋势图.md",
+    "Templates/用户端/生成趋势图.md",
+    "Templates/个股分析模板.md",
+    "Templates/选股看板.md",
+    "Templates/用户端/每日数据拉取脚本.md",
+    "每日分析结果/2026年05月08日/股息率排名.md",
+    "新手教程.md.tmp.21452.0e5d697f1933",
+    "新手教程.md.tmp.21452.aba52cff1bcc",
+    "选股启动器_用户端.md.tmp.21452.cf8343a65ee4",
+    "选股启动器_用户端.md.tmp.21452.0cb7546a94fc",
+    "Templates/个股分析模板.md.tmp.21452.c8e90b1dc735",
+    "新手教程.md.tmp.21452.ee310958dd6c",
+    "新手教程.md.tmp.21452.7fed2be4a911",
+    "新手教程.md.tmp.21452.6e6c8c7fb83e",
+    "Templates/选股看板.md.tmp.21452.384603c2993c"
+  ]
+}
